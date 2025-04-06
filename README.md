@@ -4,6 +4,8 @@ Welcome to my page. This speaks a volume about me, my passion and my growth. Ple
 <h3 align="center">I’m a Data Analyst with over 3 years of experience turning raw data into clear, actionable stories. I work with Excel, Power BI, and SQL, Python and I’ve worked on real-world projects that solve practical problems across various domains</h3>
 
 
+
+
 - 🔭 Beyond analysis, I’m also a passionate tech instructor, helping others build their skills in data analytics through structured training and hands-on mentoring
   
 - 🌱 I’m currently working on  **The effect of temperature on hydrate inhibitors (methanol and ethylene glycol) in production flowlines**
@@ -29,7 +31,7 @@ Welcome to my page. This speaks a volume about me, my passion and my growth. Ple
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tmaks_00316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tmaks_00316" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adetona makinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adetona makinde" height="30" width="40" /></a>
+<a href="linkedin.com/in/adetona-makinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adetona makinde" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/adetonamakinde1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adetonamakinde1" height="30" width="40" /></a>
 </p>
 
