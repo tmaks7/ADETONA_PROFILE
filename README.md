@@ -1,22 +1,28 @@
 # ADETONA_PROFILE
 Welcome to my page. This speaks a volume about me, my passion and my growth. Please, meet me
-<h1 align="center">Hello World 👋, I'm Adetona Makinde</h1>
-<h3 align="center">A fervid data analyst & engineer from Africa</h3>
+<h1 align="center">Hello there, 👋, I'm Adetona Makinde</h1>
+<h3 align="center">I’m a Data Analyst with over 3 years of experience turning raw data into clear, actionable stories. I work with Excel, Power BI, and SQL, Python and I’ve worked on real-world projects that solve practical problems across various domains</h3>
 
 
-- 🔭 I’m currently working on [data visualization](https://github.com/tmaks7/PROJECT-1)
+- 🔭 Beyond analysis, I’m also a passionate tech instructor, helping others build their skills in data analytics through structured training and hands-on mentoring
+  
+- 🌱 I’m currently working on  **The effect of temperature on hydrate inhibitors (methanol and ethylene glycol) in production flowlines**
 
-- 🌱 I’m currently learning **POWER BI**
+- 🛠️ From data cleaning to dashboarding to uncovering patterns that drive strategy — I bring clarity and purpose to every project I touch
 
-- 👯 I’m looking to collaborate on [danny's diner 8 weeks challange](https://github.com/tmaks7/DANNY_DINER_CASE_STUDY)
-
-- 🤝 I’m looking for help with [data visualization](https://github.com/tmaks7/PROJECT-1)
-
+- 🤝 Always happy to collaborate, so if you’ve got a cool idea or project in mind, feel free to reach out!
+  
 - 👨‍💻 All of my projects are available at [https://github.com/tmaks7](https://github.com/tmaks7)
 
-- 💬 Ask me about **SQL, POWER BI**
+- 💬 Ask me about:
+  - Making sense of messy datasets
+  - Building dashboards in Power BI
+  - Writing efficient SQL queries
+  - Teaching data skills to beginners
+  - Real-life data project experiences
+  - Career tips for aspiring data analysts
 
-- 📫 How to reach me **adetonamakinde1@gmail.com**
+- 📫 How to reach me **adetonamakinde1@gmail.com** || **linkedin.com/in/adetona-makinde**
 
 - ⚡ Fun fact **I think I am fun to be with**
 
