@@ -6,7 +6,7 @@ Welcome to my page. This speaks a volume about me, my passion and my growth. Ple
 
 
 
-- 🔭 Beyond analysis, I’m also a passionate tech instructor, helping others build their skills in data analytics through structured training and hands-on mentoring
+- 🔭 Beyond analysis, I’m also a passionate ***tech instructor***, helping others build their skills in data analytics through structured training and hands-on mentoring
   
 - 🌱 I’m currently working on  **The effect of temperature on hydrate inhibitors (methanol and ethylene glycol) in production flowlines**
 
@@ -14,7 +14,7 @@ Welcome to my page. This speaks a volume about me, my passion and my growth. Ple
 
 - 🤝 Always happy to collaborate, so if you’ve got a cool idea or project in mind, feel free to reach out!
   
-- 👨‍💻 All of my projects are available at [https://github.com/tmaks7](https://github.com/tmaks7)
+- 👨‍💻 My projects are available at [https://github.com/tmaks7](https://github.com/tmaks7)
 
 - 💬 Ask me about:
   - Making sense of messy datasets
@@ -24,9 +24,9 @@ Welcome to my page. This speaks a volume about me, my passion and my growth. Ple
   - Real-life data project experiences
   - Career tips for aspiring data analysts
 
-- 📫 How to reach me **adetonamakinde1@gmail.com** || **linkedin.com/in/adetona-makinde**
+- 📫 How to reach me **adetonamakinde1@gmail.com**
 
-- ⚡ Fun fact **I think I am fun to be with**
+- ⚡ Fun fact **While working on a student result database, I discovered that some students registration number wasn't matching, but with some smart SQL, I still managed to clean it all up and deliver accurate results**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
