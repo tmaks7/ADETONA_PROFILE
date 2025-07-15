@@ -7,8 +7,7 @@ Welcome to my page. This speaks a volume about me, my passion and my growth. Ple
 
 
 - 🔭 Beyond analysis, I’m also a passionate ***tech instructor***, helping others build their skills in data analytics through structured training and hands-on mentoring
-  
-- 🌱 I’m currently working on  **The effect of temperature on hydrate inhibitors (methanol and ethylene glycol) in production flowlines**
+
 
 - 🛠️ From data cleaning to dashboarding to uncovering patterns that drive strategy — I bring clarity and purpose to every project I touch
 
@@ -26,7 +25,7 @@ Welcome to my page. This speaks a volume about me, my passion and my growth. Ple
 
 - 📫 How to reach me **adetonamakinde1@gmail.com**
 
-- ⚡ Fun fact **While working on a student result database, I discovered that some students registration number wasn't matching, but with some smart SQL, I still managed to clean it all up and deliver accurate results**
+- ⚡ Fun fact **Concatenating a record with null record will give you null as result in SQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
